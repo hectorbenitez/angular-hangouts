@@ -1,0 +1,16 @@
+{
+    "name": "angular-hangouts",
+    "version": "1.0.0-alpha.1",
+    "main": "dist/angular-hangouts.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/hectorbenitez/angular-hangouts.git"
+    },
+    "license": "MIT",
+    "files": [
+        "angular-hangouts.js"
+    ],
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
