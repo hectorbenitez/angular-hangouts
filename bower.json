@@ -1,0 +1,17 @@
+{
+    "name": "angular-hangouts",
+    "description": "AngularJs service to interact with Google Hangouts",
+    "author": "Hector Benitez",
+    "license": "MIT",
+    "homepage": "https://github.com/hectorbenitez/angular-hangouts",
+    "main": "dist/angular-hangouts.js",
+    "ignore": [
+    ],
+    "dependencies": {
+        "angular": ">=1.2.0 <1.6.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/hectorbenitez/angular-hangouts.git"
+    }
+}
